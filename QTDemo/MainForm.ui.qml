@@ -40,4 +40,10 @@ Rectangle {
             border.width: 1
         }
     }
+
+    MouseArea {
+        id: mouseArea
+        width: 100
+        height: 100
+    }
 }
